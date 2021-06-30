@@ -1,4 +1,4 @@
-Project developer in NLW Together
+Project developed in NLW Together
 
 
 
